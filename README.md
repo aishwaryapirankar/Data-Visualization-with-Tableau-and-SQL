@@ -6,11 +6,11 @@ Click on the link to view the dashboard: https://public.tableau.com/views/SalesI
 
 The aim of the project is to get Sales and Profit Insights live on a dashboard for the stakeholders from MySQL database with tables like customers, markets, products, transaction, profit, etc with columns holding data by names, year, revenue, etc.
 
-For this project, I took help of Youtube videos, articles and documentation.
+For this project, I took help of real data, Youtube videos, articles and documentation.
 
 ## Data Analysis Using SQL
 
-There are two SQL files. One for sales insight data and other one for profit analysis.
+There are two SQL files with real data. One for sales insight data and other one for profit analysis.
 
 1. Show all customer records
 
